@@ -1,0 +1,65 @@
+/*
+	* @author/Developer: Patrick Mutwiri
+	* Email: patwiri@gmail.com
+	* @link/GIT: https://github.com/patricmutwiri
+	* @link/Twitter: https://twitter.com/patric_mutwiri
+	* Call: +254727542899
+	* @link/Site: http://patric.xyz
+
+    --------------------------------------------------------------
+    | 		*******       **      ************ ************		 |
+    | 		*******       **      ************ ************		 |
+    | 		***  **     **  **         ***     ***      ***		 |
+    | 		***  **     **  **         ***     ***      ***		 |
+    | 		*******    ********        ***     ***      ***		 |
+    | 		*******    ********        ***     ***      ***		 |
+    | 		***       **      **       ***     ************		 |
+    | 		***       **      **       ***     ************		 |
+    --------------------------------------------------------------
+*/
+.sp-default-logo {
+    max-height: 70px;
+}
+img.sp-retina-logo {
+    max-width: 60px;
+}
+#contact-form{
+    background-color: white;
+    border-radius: 1px
+}
+#contact-form input, #contact-form textarea{
+    border-radius: 1px;
+    width: 91.7%;
+}
+#contact-form textarea {
+    min-height: 200px;
+}
+.submitSave {
+    padding: 10px;
+    border-radius:2px;
+}
+.form-horizontal .controls{
+    margin-left: 190px
+}
+.btn, textarea, select, button , input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input{
+    border-radius: 2px
+}
+#sp-main-body {
+    padding: 20px 0;
+}
+.fabrikGroup {
+    margin: 5px 0;
+}
+.fabrikElement .inputbox{
+    width: 80%!important;
+}
+.sppb-icon-container fa:hover{
+    color: purple
+}
+
+img.error-logo {
+    max-height: 150px;
+}
+.error-page .error-page-inner .error-logo-wrap img{
+    max-height: 150px;   
+}
